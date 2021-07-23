@@ -1,0 +1,16 @@
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\bin\Debug\net5.0\Week4.Day5.exe
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\bin\Debug\net5.0\Week4.Day5.deps.json
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\bin\Debug\net5.0\Week4.Day5.runtimeconfig.json
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\bin\Debug\net5.0\Week4.Day5.runtimeconfig.dev.json
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\bin\Debug\net5.0\Week4.Day5.dll
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\bin\Debug\net5.0\ref\Week4.Day5.dll
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\bin\Debug\net5.0\Week4.Day5.pdb
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\obj\Debug\net5.0\Week4.Day5.csproj.AssemblyReference.cache
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\obj\Debug\net5.0\Week4.Day5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\obj\Debug\net5.0\Week4.Day5.AssemblyInfoInputs.cache
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\obj\Debug\net5.0\Week4.Day5.AssemblyInfo.cs
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\obj\Debug\net5.0\Week4.Day5.csproj.CoreCompileInputs.cache
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\obj\Debug\net5.0\Week4.Day5.dll
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\obj\Debug\net5.0\ref\Week4.Day5.dll
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\obj\Debug\net5.0\Week4.Day5.pdb
+C:\Users\Betta\Desktop\Week4.ProvaSettimanale\Week4.Day5\Week4.Day5\obj\Debug\net5.0\Week4.Day5.genruntimeconfig.cache
